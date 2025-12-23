@@ -1,7 +1,7 @@
 # Poultry_ClinProt
 Dataset for MALDI-ToF-MS differential analysis of poultry liver
 
-Here are found:
+Here one can find:
 
 - RAW MALDI-ToF-MS spectra of SPE-C18 extraction (ZipTip, Merck) with 60% ACN/0.1% TFA from supernatant of liver lysis (10% in TEAB 100 mM)
 - RAW MALDI-ToF-MS spectra of SPE-C18 extraction (Strata, Phenomenex) with stepwise (10% step) elution with ACN/0.1% TFA
